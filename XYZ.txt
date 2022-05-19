@@ -2,8 +2,16 @@ class XYZ
 {
 public static void main(String args[])
 {
- 
+    int x;
+    int y;
+    int z;
+    String name;
+    String address;
     System.out.println("Hello World!");
 	
+}
+public void sub(int x,int y)
+{
+ System.out.println(a-b);
 }
 }
