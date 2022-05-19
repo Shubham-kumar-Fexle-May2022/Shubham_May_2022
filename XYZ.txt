@@ -2,6 +2,7 @@ class XYZ
 {
 public static void main(String args[])
 {
+<<<<<<< HEAD
    int a;
    int b;
    System.out.println("Hello World!");
@@ -9,5 +10,9 @@ public static void main(String args[])
 public void sum(int a,int b)
 {
 System.out.println(a+b);
+=======
+    System.out.println("Hello World!");
+	
+>>>>>>> main
 }
 }
