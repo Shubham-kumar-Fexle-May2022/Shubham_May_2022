@@ -10,8 +10,10 @@ public static void main(String args[])
     System.out.println("Hello World!");
 	
 }
-public void sub(int x,int y)
+public void sum(int x,int y)
 {
  System.out.println(a-b);
+ System.out.println(a*b);
+ System.out.println(name);
 }
 }
