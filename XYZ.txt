@@ -2,7 +2,7 @@ class XYZ
 {
 public static void main(String args[])
 {
-<<<<<<< HEAD
+
    int a;
    int b;
    System.out.println("Hello World!");
@@ -10,9 +10,21 @@ public static void main(String args[])
 public void sum(int a,int b)
 {
 System.out.println(a+b);
-=======
+
+    int x;
+    int y;
+    int z;
+    String name;
+    String address;
+
     System.out.println("Hello World!");
 	
->>>>>>> main
+
+}
+public void sum(int x,int y)
+{
+ System.out.println(a-b);
+ System.out.println(a*b);
+ System.out.println(name);
 }
 }
