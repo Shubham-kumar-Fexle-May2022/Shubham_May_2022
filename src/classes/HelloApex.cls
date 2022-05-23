@@ -3,6 +3,6 @@ public class HelloApex {
     {
         system.debug('Hello Apex');
         //this is single line comment   
+        system.debug('Apex Method');   
     }
-
 }
